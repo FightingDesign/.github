@@ -3,14 +3,7 @@
   <h2 align="center" style="font-weight: 600">Fighting Design</h2>
 
   <p align="center">
-    是一款使用 TypeScript + Template 编写的 Vue3 轻量级组件库
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/FightingDesign/fighting-design/stargazers"><img src="https://img.shields.io/github/stars/FightingDesign/fighting-design" /></a>
-    <a href="https://www.npmjs.com/package/fighting-design"><img src="https://badgen.net/npm/v/fighting-design" /></a>
-    <a href="https://fighting.tianyuhao.cn"><img src="https://img.shields.io/badge/Fighting%20Design-Docs-brightgreen" /></a>
-    <a href="https://github.com/FightingDesign/fighting-design/blob/master/CHANGELOG.md"><img src="https://img.shields.io/badge/Fighting%20Design-CHANGELOG-green" /></a>
+    😊 Vue3 组件库及周边生态。主要专注于 vue、前端开发方向，学习为主，欢迎加入！
   </p>
 </p>
 
